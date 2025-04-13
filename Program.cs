@@ -4,7 +4,7 @@ using System.Text.Json;
 public class CovidConfig
 {
     public string satuan_suhu { get; set; }
-    public int batas_hari_deman { get; set; }
+    public int batas_hari_demam { get; set; }
     public string pesan_ditolak { get; set; }
     public string pesan_diterima { get; set; }
 
@@ -18,7 +18,7 @@ public class CovidConfig
             var defaultConfig = new CovidConfig
             {
                 satuan_suhu = "celcius",
-                batas_hari_deman = 14,
+                batas_hari_demam = 14,
                 pesan_ditolak = "Anda tidak diperbolehkan masuk ke dalam gedung ini",
                 pesan_diterima = "Anda dipersilahkan untuk masuk ke dalam gedung ini"
             };
@@ -26,7 +26,6 @@ public class CovidConfig
             return defaultConfig;
         }
 
-        // File sudah ada → baca dan cek placeholder
         string json = File.ReadAllText(configFilePath);
         var config = JsonSerializer.Deserialize<CovidConfig>(json);
 
@@ -40,8 +39,8 @@ public class CovidConfig
         if (config.satuan_suhu == "CONFIG1")
             config.satuan_suhu = "celcius";
 
-        if (config.batas_hari_deman.ToString() == "CONFIG2") // jaga-jaga kalau CONFIG2 masuk literal string
-            config.batas_hari_deman = 14;
+        if (config.batas_hari_demam.ToString() == "CONFIG2") // jaga-jaga kalau CONFIG2 masuk literal string
+            config.batas_hari_demam = 14;
 
         // Simpan ulang config yang sudah dibersihkan
         config.Simpan();
@@ -88,7 +87,7 @@ class Program
             suhuValid = suhu >= 97.7 && suhu <= 99.5;
         }
 
-        if (suhuValid || hariDemam < config.batas_hari_deman)
+        if (suhuValid && hariDemam < config.batas_hari_demam)
         {
             Console.WriteLine(config.pesan_diterima);
         }
