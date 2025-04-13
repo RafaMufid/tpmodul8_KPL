@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\bin\Debug\net8.0\tpmodul8_103022300061.exe
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\bin\Debug\net8.0\tpmodul8_103022300061.deps.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\bin\Debug\net8.0\tpmodul8_103022300061.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\bin\Debug\net8.0\tpmodul8_103022300061.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\bin\Debug\net8.0\tpmodul8_103022300061.pdb
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.sourcelink.json
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\refint\tpmodul8_103022300061.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.pdb
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\tpmodul8_103022300061.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul8_103022300061\obj\Debug\net8.0\ref\tpmodul8_103022300061.dll
